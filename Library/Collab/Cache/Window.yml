@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/BirdFly.anim
+    - Assets/BirdFly.anim.meta
+    - Assets/L.jpg
+    - Assets/L.jpg.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/bird.controller
+    - Assets/bird.controller.meta
+    - Assets/birdjump.cs
+    - Assets/birdjump.cs.meta
+    - Assets/box.prefab
+    - Assets/box.prefab.meta
+    - Assets/ground 1.controller
+    - Assets/ground 1.controller.meta
+    - Assets/ground.controller
+    - Assets/ground.controller.meta
+    - Assets/groundmove.anim
+    - Assets/groundmove.anim.meta
+    - Assets/i.png
+    - Assets/i.png.meta
+    - Assets/k.png
+    - Assets/k.png.meta
+    - Assets/makeBox.cs
+    - Assets/makeBox.cs.meta
+    - Assets/move.cs
+    - Assets/move.cs.meta
+    - Assets/png-clipart-sand-sandy-sandy-beach.png
+    - Assets/png-clipart-sand-sandy-sandy-beach.png.meta
+    - Assets/sea.png
+    - Assets/sea.png.meta
+    - "Assets/\u2014Pngtree\u2014octopus octopus octopus cartoon octopus_3855772.png"
+    - "Assets/\u2014Pngtree\u2014octopus octopus octopus cartoon octopus_3855772.png.meta"
+    - "Assets/\u2014Pngtree\u2014sand dunes in the desert_7514610 1.controller"
+    - "Assets/\u2014Pngtree\u2014sand dunes in the desert_7514610 1.controller.meta"
+    - "Assets/\u2014Pngtree\u2014sand dunes in the desert_7514610.controller"
+    - "Assets/\u2014Pngtree\u2014sand dunes in the desert_7514610.controller.meta"
+    - "Assets/\u2014Pngtree\u2014sand dunes in the desert_7514610.png"
+    - "Assets/\u2014Pngtree\u2014sand dunes in the desert_7514610.png.meta"
+    - "Assets/\uB2E4\uC6B4\uB85C\uB4DC.jpeg"
+    - "Assets/\uB2E4\uC6B4\uB85C\uB4DC.jpeg.meta"
+    - "Assets/\uC81C\uBAA9_\uC5C6\uB294_\uC544\uD2B8\uC6CC\uD06C 3.png"
+    - "Assets/\uC81C\uBAA9_\uC5C6\uB294_\uC544\uD2B8\uC6CC\uD06C 3.png.meta"
+    - "Assets/\uC81C\uBAA9_\uC5C6\uB294_\uC544\uD2B8\uC6CC\uD06C.png"
+    - "Assets/\uC81C\uBAA9_\uC5C6\uB294_\uC544\uD2B8\uC6CC\uD06C.png.meta"
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: collab
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
